@@ -1,17 +1,17 @@
 
 <div align="center">
-  <img border-radius: 15px src="20210811_082543.jpg"width="200" height="200"/>
+  <img border-radius: 15px src="https://i.imgur.com/9GOGBaF.jpeg"width="200" height="200"/>
   <p align="center">
     
     
-<a href="#"><img title="LIZA MWOL" src="https://img.shields.io/badge/LIZA MWOL-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="nandhu,cjs" src="https://i.imgur.com/9GOGBaF.jpeg"></a>
 </p>
   <p align="center">
 <a href=https://github.com/Chunkindepadayali"><img title="Author" src="https://img.shields.io/badge/Author-(hunk!nd3 p4d4y41!-LIZAMWOL?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Chunkindepadayali">LIZA MWOL</a> to make it public
+Project created by <a href="https://github.com/Chunkindepadayali">nandhu,cjs</a> to make it public
     <br>
        | © |
         Reserved |
@@ -69,7 +69,7 @@ $ node Liza.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Chunkindepadayali/LIZA-MWOL/blob/master/WhatsAsena.png)](https://chat.whatsapp.com/BRPbS6JHUoCE480MpLLM5z)
+  [![join](https://github.com/Chunkindepadayali/LIZA-MWOL/blob/master/WhatsAsena.png)](https://chat.whatsapp.com/DY9Pk6Cy0zj1smbPBQIRqg)
   <div align="center">
        
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chunkindepadayali&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
