@@ -11,24 +11,24 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     var respoimage = await axios.get(config.LIZA, { responseType: 'arraybuffer' })
 
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , thumbnail: fs.readFileSync('20210811_082543.jpg'), mimetype: Mimetype.png, caption: `*≈≈≈≈≈≈≈Links ☟︎︎︎≈≈≈≈≈≈≈≈*
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , thumbnail: fs.readFileSync('https://i.imgur.com/9GOGBaF.jpeg'), mimetype: Mimetype.png, caption: `*≈≈≈≈≈≈≈Links ☟︎︎︎≈≈≈≈≈≈≈≈*
  
-*owner number wa.me/918137829228*
+*owner number wa.me/919496682736*
    
-*owner number wa.me/918075379950*
+*owner number wa.me/919496682736*
 
 
-*whatsapp group : https://chat.whatsapp.com/FVOdpPLaMvP24rIfTzCGof*
+*whatsapp group : https://chat.whatsapp.com/DY9Pk6Cy0zj1smbPBQIRqg*
 
 
-*githublink       _https://tinyurl.com/yjdej5a2_*
+*no*
 
 
-*audio commads    _https://tinyurl.com/ydvlpbol_*
+*no*
 
-*Bot Make Video ytube -https://youtu.be/s3ugOuxbQ_Q_*
+*no*
 
-*sticker commads  _https://tinyurl.com/yfpd23yn_*     
+*no*     
 `}) 
 
 })); 
